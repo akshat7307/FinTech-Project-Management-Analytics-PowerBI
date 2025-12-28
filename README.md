@@ -50,6 +50,7 @@ Employee efficiency and labor cost
 Hourly rate and productivity metrics
 Performance comparison by experience level
 Employee distribution by country
+
 🧮 DAX MEASURES IMPLEMENTED
 CORE METRICS
 Total Projects
@@ -72,6 +73,8 @@ Multi-selection context cards
 Timeline validation messages
 Hierarchical drilldown logic
 All DAX measures are included in the repository for reference and reuse.
+
+
 ⚙️ KEY DASHBOARD FEATURES
 Interactive drilldowns across:
 Departments
@@ -82,16 +85,20 @@ Dynamic HTML-based cards for filter context
 Cross-filtering for deep-dive exploration
 Clean and professional layout
 ZoomCharts visuals for enhanced interactivity
+
+
 🚀 HOW TO USE THIS PROJECT
 Download the .pbix file from this repository
 Open it in Power BI Desktop
 Navigate through dashboard pages
 Use slicers and drilldowns to explore insights
 Analyze performance at portfolio, project, task, or employee level
+
 🏆 CHALLENGE INFORMATION
 Organizer: FP20 Analytics
 Challenge: FP20 Analytics Challenge 32
 Theme: FinTech Project Management Analytics
+
 📁 REPOSITORY CONTENTS
 *.pbix → Power BI Dashboard File
 *.xlsx → Dataset & DAX Reference Files
