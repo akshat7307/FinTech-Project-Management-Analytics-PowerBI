@@ -18,6 +18,8 @@ Countries and city locations
 Risk levels
 Planned vs actual budgets and hours
 📄 DASHBOARD PAGES & INSIGHTS
+
+
 🔹 PAGE 1: PLANNED VS ACTUAL – BUDGET & HOURS OVERVIEW
 Purpose:
 High-level portfolio monitoring of financial and operational performance.
@@ -27,6 +29,8 @@ Usage percentage and variance analysis
 Project distribution by status and risk level
 Budget and hours performance by department
 Monthly trends for spending and effort consumption
+
+
 🔹 PAGE 2: PROJECT & TASK PERFORMANCE
 Purpose:
 Operational monitoring at project and task level.
@@ -36,6 +40,7 @@ Planned vs actual timelines
 Task priorities and risk exposure
 Completion percentage tracking
 Hierarchical drilldowns from department to task
+
 🔹 PAGE 3: EMPLOYEE PERFORMANCE ANALYSIS
 Purpose:
 Workforce efficiency, utilization, and cost analysis.
